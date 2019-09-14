@@ -1,0 +1,221 @@
+
+#principal{
+    width: 900px;
+    height: auto; overflow: hidden;
+    border: 0px solid #000000;
+    margin: auto;
+    background: skyblue;
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+
+header{
+    width: 900px;
+    height: 100px;
+    border: 0px solid #e5ee67;
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+
+#logo{
+    width: 200px;
+    height: 100px;
+    border: 0px solid #e5ee67;
+    float: left;
+}
+
+.titulo{
+    margin-top: 25spx;
+    font-size: 30px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.sub-titulo{
+    font-size: 10px;
+    margin-top: -20px;
+}
+
+.menu{
+    width: 465px;
+    height: 50 px;
+    border: px solid #000000;
+    float: right;
+    margin-top: -325px;
+    background: #0000ff;
+    
+}
+ 
+.menu ul{} 
+
+.menu ul li{
+    list-style: none;
+    float: left;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    padding: 10px 15px;
+    border: px solid #000000;
+    color: #ffffff;
+}
+
+.menu ul li a:hover{
+    background: #f5f5f5;
+    color: #0000ff;
+    transition: background 1s, color 1s;
+}
+
+#slide{
+    margin-top: -3px;
+    width: 900px;
+    height: 250px;
+}
+
+#categorias{
+    width: 900px;
+    height: auto; overflow: hidden;
+    border: 0px solid;
+    margin-top: 15px;
+}
+
+.uno{
+    width: 280px;
+    height: auto; overflow: hidden;
+    border: px solid #000000;
+    float: left;
+    padding: 5px;
+    text-align: center;
+}
+
+.parrafo{
+    color: #000000;
+    text-align: justify;
+
+}
+
+.dos{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.Leer{
+    text-decoration: none;
+    border: px solid #000000;
+    padding: 10px 20px 10px 10px;
+    margin: 10px;
+}
+
+.Leer:hover{
+    background: #000000;
+    color: #ffffff;
+    transition: background 2s, color 2s;
+}
+
+#info{
+    width: 900px;
+    height: auto; overflow: hidden;
+    border: 0px solid #000000;
+    margin-top: 10px;
+}
+
+#izq{
+    width: 585px;
+    height: auto; overflow: hidden;
+    border: px solid #000000;
+    float: left;
+    padding: 5px;
+}
+
+#der{
+    width: 290px;
+    height: auto; overflow: hidden;
+    border: px solid #000000;
+    float: right;
+   
+}
+
+.yoyo:hover{
+    text-align: justify;
+    background: #e5ee67;
+    color: #ff0000;
+    margin: 2px;
+    transition: background 1s, color 1s;
+}
+
+footer{
+    width: 900px;
+    height: 100px;
+    margin: 10px;
+}
+
+footer p a{
+    width: 500px;
+    float: none;
+    text-decoration: none;
+    
+}
+
+footer p{
+    text-decoration: none;
+}
+
+.imagen1{
+    color: #000000;
+    text-align: center;
+}
+
+.imagen2{
+    color: #000000;
+    text-align: center;
+}
+
+
+.imagen3{
+    color: #000000;
+    text-align: center;
+}
+
+.tema1{
+    color: #000000;
+    text-align: center;
+}
+
+.tema2{
+    color: #000000;
+    text-align: center;
+}
+
+
+.tema3{
+    color: #000000;
+    text-align: center;
+}
+
+.boton button:hover{
+    margin-left: 5px;
+    background: #e5ee67;
+    color: #ff0000;
+    transition: background 1s, color 1s;
+     text-decoration: none;
+
+}
+
+.facebook {
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    margin-top: -19px;
+    text-decoration: none;
+}
+
+
+.WhatsApp{
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    margin-top: -19px;
+    text-decoration: none;
+}
+

@@ -1,0 +1,47 @@
+h1 {
+text-align: center;
+}
+
+
+nav{
+text-align: center;
+font-size: 40px;
+margin-bottom: 100px;
+margin-top: 100px;
+font-family: Comic Sans MS; 
+font-weight:bold; 
+font-size: 30px; 
+color: #EBD758; 
+text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68; 6px 6px #414D68, 7px 7px #414D68, 8px 8px #414D68, 9px 9px #414D68;
+
+}
+
+form   {
+    width:250px;height:180px;margin-bottom: 100px; margin-left: 40%; 
+    }
+ 
+.boton {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-right: 200%;
+  }
+
+  img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+
+  
+
+.lll {
+text-align: center;
+  }
+
+
+
+
